@@ -54,7 +54,7 @@ As someone with extensive experience in Customer Success, SaaS operations, onboa
 ![Homepage](screenshots/homepage.png)
 
 ### Chat Demo
-![Chat Demo](screenshots/chatbot_conversation.png)
+![Chat Demo](screenshots/chatbot.png)
 
 ### Mobile View
 ![Mobile View](screenshots/mobile.png)
