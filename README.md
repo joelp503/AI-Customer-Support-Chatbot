@@ -1,2 +1,58 @@
-# AI-Customer-Support-Chatbot
-Purpose: demo chatbot for small businesses that answers common customer questions, captures lead info, and shows how AI can improve support.
+# AI Customer Support Chatbot Demo
+
+This is a portfolio project showcasing a simple AI-style customer support chatbot workflow for small businesses and SaaS companies.
+
+## Project Purpose
+
+The goal of this project is to demonstrate how customer support automation can help businesses:
+
+- Answer common customer questions
+- Qualify customer intent
+- Route support requests
+- Improve onboarding and customer experience
+- Reduce repetitive manual support work
+
+## Features
+
+- Responsive landing page
+- Interactive chatbot interface
+- Keyword-based intent detection
+- Customer support use-case simulation
+- Clean SaaS-style UI
+- No API key required
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- GitHub
+- Netlify or GitHub Pages
+
+## Example Use Cases
+
+This chatbot can be adapted for:
+
+- SaaS support
+- Small business websites
+- Customer onboarding
+- Lead qualification
+- FAQ automation
+- Service booking workflows
+
+## Why I Built This
+
+As someone with extensive experience in Customer Success, SaaS operations, onboarding, and client support, I wanted to create a practical demo showing how AI-assisted workflows can improve customer experience and support efficiency.
+
+## Live Demo
+
+Add your live demo link here after deployment.
+
+## Future Improvements
+
+- Connect to a real AI API
+- Add lead capture form
+- Create ticket submission workflow
+- Add admin dashboard
+- Store conversations in a database
+- Integrate with HubSpot or another CRM
