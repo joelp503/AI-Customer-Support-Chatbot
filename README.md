@@ -48,11 +48,14 @@ As someone with extensive experience in Customer Success, SaaS operations, onboa
 
 [https://6a440970b9a8d42fc306bb3e--ai-support-demo.netlify.app/]
 
-## Future Improvements
+## Screenshots
 
-- Connect to a real AI API
-- Add lead capture form
-- Create ticket submission workflow
-- Add admin dashboard
-- Store conversations in a database
-- Integrate with HubSpot or another CRM
+### Homepage
+![Homepage](screenshots/homepage.png)
+
+### Chat Demo
+![Chat Demo](screenshots/chatbot_conversation.png)
+
+### Mobile View
+![Mobile View](screenshots/mobile.png)
+
